@@ -53,5 +53,5 @@ Explore / custom specs
       output/mlumidas/
 """
 # Path to the /Code folder
-FILE_PATH = "C:/Users/johan/Desktop/Coding/Code/"
+FILE_PATH = ""
 
